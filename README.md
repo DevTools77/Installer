@@ -1,3 +1,3 @@
 # Installer
 
-A installer to install ANY of the projects in this org.
+A installer to install ANY of the projects in our organization.
